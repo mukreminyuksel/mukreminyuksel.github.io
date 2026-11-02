@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.mukreminyuksel.ilaw",
+      "sha256_cert_fingerprints": ["13:A1:65:B0:D3:72:07:1A:43:63:B8:3B:A6:00:41:99:60:CA:F6:19:3B:76:9A:17:2A:8F:8A:99:12:18:15:FA"]
+    }
+  }
+]
